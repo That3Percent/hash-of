@@ -1,0 +1,15 @@
+[package]
+name = "hash-of"
+version = "0.1.0"
+authors = ["That3Percent <that3percent@gmail.com>"]
+edition = "2018"
+description = "A typesafe wrapper for hashes"
+homepage = "https://github.com/That3Percent/hash-of"
+repository = "https://github.com/That3Percent/hash-of"
+readme = "README.md"
+keywords = ["hash"]
+categories = ["rust-patterns"]
+license = "MIT"
+
+[badges]
+maintenance = { status = "actively-developed" }
